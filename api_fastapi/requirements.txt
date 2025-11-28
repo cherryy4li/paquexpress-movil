@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mysqlclient
+bcrypt
+python-jose
+pydantic
